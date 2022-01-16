@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "prepare": "./prepare.sh",
-    "postinstall": "postinstall.sh"
+    "postinstall": "./postinstall.sh"
   },
   "eslintConfig": {
     "extends": [
