@@ -1,0 +1,3 @@
+[submodule "node_modules/react-admin"]
+	path = node_modules/react-admin
+	url = git@github.com:tkow/react-admin.git
